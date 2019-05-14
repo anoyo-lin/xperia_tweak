@@ -1,0 +1,214 @@
+android | /system/framework/framework-res.apk | Android System
+android.autoinstalls.config.sony.xperia | /data/app/android.autoinstalls.config.sony.xperia-Nq_LyqVF9JLW25_lTL8IWA==/base.apk | Play Auto Installs configuration
+android.product.res.overlay.defaultgmessaging | /vendor/overlay/Conversations-Overlay-defaultgmessaging-285-release.apk | NULL OR EMPTY
+cn.com.cmbc.newmbank | /data/app/cn.com.cmbc.newmbank-o5lYlPkuJB4i0OLxBPWCDA==/base.apk | 民生银行
+com.MobileTicket | /data/app/com.MobileTicket-FFFXj4THpdU44tc4SX9vhw==/base.apk | 铁路12306
+com.Slack | /data/app/com.Slack-CitFz6Am4385XuO32EncVw==/base.apk | Slack
+com.airwatch.admin.sony | /data/app/com.airwatch.admin.sony-3s99Rn_Wz8KUQxgYRSlQ9w==/base.apk | AirWatch Sony Service
+com.airwatch.androidagent | /data/app/com.airwatch.androidagent-p8s5-xYd6zpmpc36N3KJeA==/base.apk | Agent
+com.android.bips | /system/app/BuiltInPrintService/BuiltInPrintService.apk | Default Print Service
+com.android.bluetooth | /system/app/Bluetooth/Bluetooth.apk | Bluetooth
+com.android.bluetoothmidiservice | /system/app/BluetoothMidiService/BluetoothMidiService.apk | Bluetooth MIDI Service
+com.android.bookmarkprovider | /system/app/BookmarkProvider/BookmarkProvider.apk | Bookmark Provider
+com.android.browser.res.overlay_305 | /oem/overlay/com.android.browser-res-305.apk | NULL OR EMPTY
+com.android.captiveportallogin | /system/app/CaptivePortalLogin/CaptivePortalLogin.apk | CaptivePortalLogin
+com.android.carrierconfig | /system/priv-app/CarrierConfig/CarrierConfig.apk | NULL OR EMPTY
+com.android.carrierconfig.res.overlay.carrierservicesenabler | /vendor/overlay/com.android.carrierconfig.res.overlay.carrierservicesenabler.apk | NULL OR EMPTY
+com.android.carrierconfig.res.overlay_305 | /oem/overlay/com.android.carrierconfig-res-305.apk | NULL OR EMPTY
+com.android.carrierdefaultapp | /system/app/CarrierDefaultApp/CarrierDefaultApp.apk | CarrierDefaultApp
+com.android.certinstaller | /system/app/CertInstaller/CertInstaller.apk | Certificate Installer
+com.android.chrome | /system/app/Chrome/Chrome.apk | Chrome
+com.android.companiondevicemanager | /system/app/CompanionDeviceManager/CompanionDeviceManager.apk | Companion Device Manager
+com.android.cts.ctsshim | /system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk | NULL OR EMPTY
+com.android.cts.priv.ctsshim | /system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk | NULL OR EMPTY
+com.android.defcontainer | /system/priv-app/DefaultContainerService/DefaultContainerService.apk | Package Access Helper
+com.android.documentsui | /system/priv-app/DocumentsUI/DocumentsUI.apk | Files
+com.android.egg | /system/app/EasterEgg/EasterEgg.apk | Android Easter Egg
+com.android.emergency | /system/priv-app/EmergencyInfo/EmergencyInfo.apk | Emergency information
+com.android.externalstorage | /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk | External storage
+com.android.hotwordenrollment.okgoogle | /system/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk | OK Google enrollment
+com.android.location.fused | /system/priv-app/FusedLocation/FusedLocation.apk | Fused Location
+com.android.managedprovisioning | /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk | Work profile setup
+com.android.mms.service | /system/priv-app/MmsService/MmsService.apk | MmsService
+com.android.mtp | /system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk | MTP Host
+com.android.nfc | /system/app/NfcNci/NfcNci.apk | NFC Service
+com.android.omadm.service | /system/priv-app/DMService/DMService.apk | Carrier Provisioning Service
+com.android.pacprocessor | /system/app/PacProcessor/PacProcessor.apk | PacProcessor
+com.android.partnerbrowsercustomizations.chromeHomepage | /vendor/app/ChromeCustomizations/ChromeCustomizations.apk | NULL OR EMPTY
+com.android.phone | /system/priv-app/TeleService/TeleService.apk | Phone Services
+com.android.printspooler | /system/app/PrintSpooler/PrintSpooler.apk | Print Spooler
+com.android.providers.blockednumber | /system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk | Blocked Numbers Storage
+com.android.providers.calendar | /system/priv-app/CalendarProvider/CalendarProvider.apk | Calendar Storage
+com.android.providers.contacts | /system/priv-app/SemcContactsProvider/SemcContactsProvider.apk | Contacts Storage
+com.android.providers.downloads | /system/priv-app/DownloadProvider/DownloadProvider.apk | Download Manager
+com.android.providers.downloads.ui | /system/app/DownloadProviderUi/DownloadProviderUi.apk | Downloads
+com.android.providers.media | /system/priv-app/MediaProvider/MediaProvider.apk | Media Storage
+com.android.providers.partnerbookmarks.res.overlay_305 | /oem/overlay/com.android.providers.partnerbookmarks-res-305.apk | NULL OR EMPTY
+com.android.providers.settings | /system/priv-app/SettingsProvider/SettingsProvider.apk | Settings Storage
+com.android.providers.telephony | /system/priv-app/TelephonyProvider/TelephonyProvider.apk | Phone and Messaging Storage
+com.android.providers.userdictionary | /system/app/UserDictionaryProvider/UserDictionaryProvider.apk | User Dictionary
+com.android.proxyhandler | /system/priv-app/ProxyHandler/ProxyHandler.apk | ProxyHandler
+com.android.sdm.plugins.connmo | /system/priv-app/ConnMO/ConnMO.apk | ConnMO
+com.android.server.telecom | /system/priv-app/Telecom/Telecom.apk | Call Management
+com.android.settings | /system/priv-app/Settings/Settings.apk | Settings
+com.android.shell | /system/priv-app/Shell/Shell.apk | Shell
+com.android.smspush | /system/app/WAPPushManager/WAPPushManager.apk | NULL OR EMPTY
+com.android.statementservice | /system/priv-app/StatementService/StatementService.apk | Intent Filter Verification Service
+com.android.stk.product.res.overlay.common | /vendor/overlay/Stk-Overlay-285-common-release.apk | NULL OR EMPTY
+com.android.storagemanager | /system/priv-app/StorageManager/StorageManager.apk | Storage Manager
+com.android.systemui | /system/priv-app/SystemUI/SystemUI.apk | System UI
+com.android.vending | /data/app/com.android.vending-TzavxXxzx8z_ddR95vFeTA==/base.apk | Google Play Store
+com.android.vpndialogs | /system/priv-app/VpnDialogs/VpnDialogs.apk | VpnDialogs
+com.android.wallpaper.livepicker | /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk | Live Wallpaper Picker
+com.android.wallpaperbackup | /system/app/WallpaperBackup/WallpaperBackup.apk | NULL OR EMPTY
+com.android.wallpapercropper | /system/priv-app/WallpaperCropper/WallpaperCropper.apk | NULL OR EMPTY
+com.brave.browser | /data/app/com.brave.browser-ceusgEBK4hbdD6zIun7HzA==/base.apk | Brave
+com.coolapk.market | /data/app/com.coolapk.market-_23C3Z8i0PvIDNNTxIfoPQ==/base.apk | CoolApk
+com.duosecurity.duomobile | /data/app/com.duosecurity.duomobile-iBYPLhxvbvutkFDdV5AIdQ==/base.apk | Duo Mobile
+com.eg.android.AlipayGphone | /data/app/com.eg.android.AlipayGphone-nEQIN1tpO9Ii6D9E0i-g8w==/base.apk | 支付宝
+com.fingerprints.extension.service | /vendor/app/FingerprintExtensionService/FingerprintExtensionService.apk | FingerprintExtensionService
+com.github.shadowsocks | /data/app/com.github.shadowsocks-rg-paljsTUbxeQgmjdKubg==/base.apk | Shadowsocks
+com.google.android.apps.authenticator2 | /data/app/com.google.android.apps.authenticator2-t0Tg-cpMdqAp8aCczSHxKw==/base.apk | Authenticator
+com.google.android.apps.messaging | /data/app/com.google.android.apps.messaging-jNpFqQaHQFUny8PuZuicsA==/base.apk | Messages
+com.google.android.apps.work.oobconfig | /system/priv-app/OobConfig/OobConfig.apk | Device setup
+com.google.android.configupdater | /system/priv-app/ConfigUpdater/ConfigUpdater.apk | ConfigUpdater
+com.google.android.ext.services | /system/priv-app/GoogleExtServices/GoogleExtServices.apk | Android Services Library
+com.google.android.ext.shared | /system/app/GoogleExtShared/GoogleExtShared.apk | Android Shared Library
+com.google.android.gms | /data/app/com.google.android.gms-SYREHhNVWM1mwEQm2xAx8w==/base.apk | Google Play services
+com.google.android.gsf | /system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk | Google Services Framework
+com.google.android.ims | /data/app/com.google.android.ims-CHjJkyuuv0N8A9OJyYw7RA==/base.apk | Carrier Services
+com.google.android.onetimeinitializer | /system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk | Google One Time Init
+com.google.android.packageinstaller | /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk | Package installer
+com.google.android.partnersetup | /system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk | Google Partner Setup
+com.google.android.setupwizard | /system/priv-app/SetupWizard/SetupWizard.apk | Setup Wizard
+com.google.android.syncadapters.contacts | /system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk | Google Contacts Sync
+com.google.android.tts | /data/app/com.google.android.tts-0Ou3l4VJluLTnUfefDnqUA==/base.apk | Google Text-to-speech Engine
+com.google.android.webview | /data/app/com.google.android.webview-6_0PUjMglXVbDHc9_6m1ug==/base.apk | Android System WebView
+com.meizu.net.map | /data/app/com.meizu.net.map-xFYOGQhF2OBewzO-Nz6aQA==/base.apk | Map
+com.netease.cloudmusic | /data/app/com.netease.cloudmusic-Y9uhJOmjKeuJnngAtoOI2g==/base.apk | 网易云音乐
+com.qti.confuridialer | /system/app/ConfURIDialer/ConfURIDialer.apk | Conference URI Dialer
+com.qti.dpmserviceapp | /system/priv-app/dpmserviceapp/dpmserviceapp.apk | NULL OR EMPTY
+com.qti.qualcomm.datastatusnotification | /system/app/datastatusnotification/datastatusnotification.apk | NULL OR EMPTY
+com.qti.qualcomm.deviceinfo | /system/app/DeviceInfo/DeviceInfo.apk | Device Info
+com.qualcomm.embms | /system/app/embms/embms.apk | NULL OR EMPTY
+com.qualcomm.location | /system/priv-app/com.qualcomm.location/com.qualcomm.location.apk | LocationServices
+com.qualcomm.qcrilmsgtunnel | /system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk | NULL OR EMPTY
+com.qualcomm.qti.autoregistration | /system/app/AutoRegistration/AutoRegistration.apk | NULL OR EMPTY
+com.qualcomm.qti.biometrics.fingerprint.service | /vendor/app/QFingerprintService/QFingerprintService.apk | NULL OR EMPTY
+com.qualcomm.qti.callenhancement | /system/app/CallEnhancement/CallEnhancement.apk | CallEnhancement
+com.qualcomm.qti.callfeaturessetting | /system/app/CallFeaturesSetting/CallFeaturesSetting.apk | NULL OR EMPTY
+com.qualcomm.qti.optinoverlay | /vendor/overlay/OptInAppOverlay/OptInAppOverlay.apk | NULL OR EMPTY
+com.qualcomm.qti.qms.service.connectionsecurity | /vendor/app/ConnectionSecurityService/ConnectionSecurityService.apk | NULL OR EMPTY
+com.qualcomm.qti.qms.service.telemetry | /vendor/app/SSGTelemetryService/SSGTelemetryService.apk | TelemetryJService
+com.qualcomm.qti.qtisystemservice | /system/app/QtiSystemService/QtiSystemService.apk | NULL OR EMPTY
+com.qualcomm.qti.simsettings | /system/app/SimSettings/SimSettings.apk | NULL OR EMPTY
+com.qualcomm.qti.telephonyservice | /system/app/QtiTelephonyService/QtiTelephonyService.apk | NULL OR EMPTY
+com.qualcomm.svi | /vendor/app/SVIService/SVIService.apk | SVI Settings
+com.qualcomm.timeservice | /vendor/app/TimeService/TimeService.apk | NULL OR EMPTY
+com.qualcomm.wfd.service | /system/app/WfdService/WfdService.apk | Wfd Service
+com.quicinc.cne.CNEService | /system/priv-app/CNEService/CNEService.apk | NULL OR EMPTY
+com.sankuai.meituan | /data/app/com.sankuai.meituan-qVvys_eRIlsXb4WBFcE62Q==/base.apk | MeiTuan
+com.sdu.didi.psnger | /data/app/com.sdu.didi.psnger-Ez0mGzooHMaOUvBjHMBjvQ==/base.apk | 滴滴出行
+com.sony.playmemories.mobile | /data/app/com.sony.playmemories.mobile-TGHVGDV5Sq9I1Sn7EjsPFw==/base.apk | PlayMemories Mobile
+com.sony.tvsideview.videoph | /system/app/videoplaceholder/videoplaceholder.apk | Video
+com.sonyericsson.album | /data/app/com.sonyericsson.album-h9VpZ8AlBs9HKDvIpUS5bw==/base.apk | Album
+com.sonyericsson.album.product.res.overlay | /vendor/overlay/Album-Overlay-270-release.apk | NULL OR EMPTY
+com.sonyericsson.android.camera | /system/priv-app/SemcCameraUI-xxhdpi-release/SemcCameraUI-xxhdpi-release.apk | Camera
+com.sonyericsson.android.camera3d | /system/priv-app/CameraPanorama-release/CameraPanorama-release.apk | Panorama
+com.sonyericsson.android.servicemenu | /system/app/ServiceMenu/ServiceMenu.apk | Service Menu
+com.sonyericsson.autopoweroffservice | /system/app/SemcAutoPowerOff/SemcAutoPowerOff.apk | AutopoweroffService
+com.sonyericsson.cameraextension.permission | /system/app/CameraExtensionPermission-release/CameraExtensionPermission-release.apk | NULL OR EMPTY
+com.sonyericsson.customizedsettings | /system/priv-app/CustomizedSettings/CustomizedSettings.apk | Customized settings
+com.sonyericsson.devicemonitor | /system/app/device-monitor/device-monitor.apk | devicemonitor
+com.sonyericsson.lockscreen.uxpnxt | /system/priv-app/LockscreenSettings-release/LockscreenSettings-release.apk | Lock screen settings
+com.sonyericsson.music | /data/app/com.sonyericsson.music-EAs6QbFESO8V8Ai76W4ZLA==/base.apk | Music
+com.sonyericsson.organizer | /system/priv-app/SemcClock/SemcClock.apk | Clock
+com.sonyericsson.photoeditor | /system/priv-app/SemcPhotoEditor/SemcPhotoEditor.apk | Photo editor
+com.sonyericsson.providers.cnap | /system/priv-app/SemcCnapProvider/SemcCnapProvider.apk | Calling name presentation provider
+com.sonyericsson.psm.sysmonservice | /vendor/app/SemcPowerSaveModule/SemcPowerSaveModule.apk | Overheat control
+com.sonyericsson.settings | /vendor/app/SemcSettings/SemcSettings.apk | Settings
+com.sonyericsson.setupwizard | /system/priv-app/SEMCSetupWizard/SEMCSetupWizard.apk | Setup guide
+com.sonyericsson.simdetection | /system/app/SemcSimDetection/SemcSimDetection.apk | SIM Detection
+com.sonyericsson.soundenhancement | /vendor/app/SoundEnhancement/SoundEnhancement.apk | Audio settings
+com.sonyericsson.suquashi.soundpicker | /system/priv-app/sound-picker-release/sound-picker-release.apk | Sound picker
+com.sonyericsson.tetherentitlementcheck | /system/app/TetherEntitlementCheck/TetherEntitlementCheck.apk | Tether Entitlement Check
+com.sonyericsson.textinput.chinese | /system/priv-app/textinput-chn-xxhdpi-release/textinput-chn-xxhdpi-release.apk | Xperia™ Chinese keyboard
+com.sonyericsson.trackid.res.overlay_305 | /oem/overlay/com.sonyericsson.trackid-res-305.apk | NULL OR EMPTY
+com.sonyericsson.updatecenter | /system/priv-app/UpdateCenter-release/UpdateCenter-release.apk | Software update
+com.sonyericsson.usbux | /system/priv-app/enhancedusbux/enhancedusbux.apk | USB connectivity
+com.sonymobile.advancedwidget.clock | /system/app/clock-widgets-release/clock-widgets-release.apk | Clock widgets
+com.sonymobile.android.addoncamera.timeshift | /system/priv-app/TimeShiftCamera-release/TimeShiftCamera-release.apk | NULL OR EMPTY
+com.sonymobile.android.contacts | /system/priv-app/Contacts/Contacts.apk | Contacts
+com.sonymobile.android.dialer | /system/priv-app/Dialer2/Dialer2.apk | Phone
+com.sonymobile.android.externalkeyboard | /system/app/externalkeyboardsinternational-release/externalkeyboardsinternational-release.apk | International keyboard layouts
+com.sonymobile.android.externalkeyboardjp | /system/app/ExternalKeyboardJP/ExternalKeyboardJP.apk | Japanese keyboard layout
+com.sonymobile.apnupdater | /system/priv-app/ApnUpdater/ApnUpdater.apk | APN Updater
+com.sonymobile.assist | /data/app/com.sonymobile.assist-L1yH76z8SGjQUlM1BTGPNg==/base.apk | Xperia Assist
+com.sonymobile.assist.overlay.fingerprint | /vendor/overlay/Assist-Overlay-fingerprint-270-release.apk | NULL OR EMPTY
+com.sonymobile.assist.overlay.tama | /vendor/overlay/Assist-Overlay-tama-271-release.apk | NULL OR EMPTY
+com.sonymobile.assist.persistent | /system/priv-app/assist_persistent-release/assist_persistent-release.apk | NULL OR EMPTY
+com.sonymobile.btidd | /system/app/btidd/btidd.apk | NULL OR EMPTY
+com.sonymobile.camera.addon.permission | /system/app/CameraAddonPermission-release/CameraAddonPermission-release.apk | Xperia™ camera add-ons
+com.sonymobile.cameracommon | /system/priv-app/CameraCommon/CameraCommon.apk | Camera common
+com.sonymobile.cameracommon.permission | /system/app/CameraCommonPermission-release/CameraCommonPermission-release.apk | NULL OR EMPTY
+com.sonymobile.chargingsupport | /system/priv-app/SomcChargingSupport/SomcChargingSupport.apk | NULL OR EMPTY
+com.sonymobile.colorgamut | /system/app/SomcColorGamut/SomcColorGamut.apk | Color gamut and contrast
+com.sonymobile.coverapp2 | /system/priv-app/CoverApp2-release/CoverApp2-release.apk | Style Cover
+com.sonymobile.customizationselector | /system/priv-app/CustomizationSelector/CustomizationSelector.apk | CustomizationSelector
+com.sonymobile.customizationselector.res.overlay_305 | /oem/overlay/com.sonymobile.customizationselector-res-305.apk | NULL OR EMPTY
+com.sonymobile.devicesecurity.service | /system/priv-app/DeviceSecurityService/DeviceSecurityService.apk | NULL OR EMPTY
+com.sonymobile.displaybooster | /vendor/app/DisplayBooster/DisplayBooster.apk | DisplayBooster
+com.sonymobile.dlna | /system/app/dlna-somc-xxhdpi-release/dlna-somc-xxhdpi-release.apk | Home network
+com.sonymobile.dualshockmanager | /system/app/SomcDualshockManager/SomcDualshockManager.apk | DUALSHOCK™4
+com.sonymobile.email | /data/app/com.sonymobile.email-LUQwHEXS4GaCWX1bz8pe0Q==/base.apk | Email
+com.sonymobile.enterprise | /system/priv-app/EnterpriseService/EnterpriseService.apk | Device policy
+com.sonymobile.enterprise.service | /system/priv-app/EnterpriseSystemService/EnterpriseSystemService.apk | Enterprise Service
+com.sonymobile.exactcalculator | /data/app/com.sonymobile.exactcalculator-00yWiD2KzicS803oGdSFrA==/base.apk | Calculator
+com.sonymobile.glovemode | /system/priv-app/SomcGloveMode/SomcGloveMode.apk | Glove mode
+com.sonymobile.gotaidd.service | /system/priv-app/gota-idd-service/gota-idd-service.apk | NULL OR EMPTY
+com.sonymobile.home | /data/app/com.sonymobile.home-kCcojccpG3KU0g2AJhg8dw==/base.apk | Xperia Home
+com.sonymobile.home.product.res.overlay | /vendor/overlay/Home-Overlay-275-release.apk | NULL OR EMPTY
+com.sonymobile.idd.permission.application_certificate | /system/app/IddPermissionApplicationCertificate/IddPermissionApplicationCertificate.apk | NULL OR EMPTY
+com.sonymobile.imageenhancer | /system/app/ImageEnhancer/ImageEnhancer.apk | Video image enhancement
+com.sonymobile.imageprocessor.permission | /system/app/ImageProcessorPermission-release/ImageProcessorPermission-release.apk | NULL OR EMPTY
+com.sonymobile.indeviceintelligence | /data/app/com.sonymobile.indeviceintelligence-sDqxfufVovZubniC0IVI4w==/base.apk | Xperia Intelligence engine™
+com.sonymobile.infoapp | /system/app/com.sonymobile.infoapp/com.sonymobile.infoapp.apk | Info App
+com.sonymobile.intelligent.gesture | /system/priv-app/IntelligentGesture/IntelligentGesture.apk | Smart call handling
+com.sonymobile.intelligent.iengine | /system/app/Iengine/Iengine.apk | NULL OR EMPTY
+com.sonymobile.moviecreator | /system/priv-app/SomcMovieCreator-release/SomcMovieCreator-release.apk | Video Editor
+com.sonymobile.nfcextension | /system/app/NfcExtension/NfcExtension.apk | NFC extension
+com.sonymobile.onehand | /system/priv-app/SomcOneHand/SomcOneHand.apk | One-handed mode
+com.sonymobile.pobox | /system/app/SomcPOBox-xxhdpi/SomcPOBox-xxhdpi.apk | Xperia™ Japanese keyboard
+com.sonymobile.pocketmode2 | /system/priv-app/PocketMode-release/PocketMode-release.apk | NULL OR EMPTY
+com.sonymobile.rcahandler | /system/app/RcaHandler/RcaHandler.apk | NULL OR EMPTY
+com.sonymobile.runtimeskinning.core | /system/app/skin-core-release/skin-core-release.apk | NULL OR EMPTY
+com.sonymobile.runtimeskinning.effects | /system/app/skin-effects-release/skin-effects-release.apk | Theme Effects
+com.sonymobile.runtimeskinning.picker | /data/app/com.sonymobile.runtimeskinning.picker-wV1AHFwdA5ncMUMaYEz9Dg==/base.apk | Themes
+com.sonymobile.scan3d | /system/app/app-scan3d-release/app-scan3d-release.apk | 3D Creator
+com.sonymobile.simlock.service | /system/priv-app/RemoteUnlockService/RemoteUnlockService.apk | NULL OR EMPTY
+com.sonymobile.smartcleaner | /system/priv-app/SmartCleaner/SmartCleaner.apk | Smart cleaner
+com.sonymobile.smtofrgbc | /system/app/smtofrgbc/smtofrgbc.apk | ToF/RGBC sensor test
+com.sonymobile.storagechecker | /system/priv-app/SemcStorageChecker/SemcStorageChecker.apk | Memory
+com.sonymobile.superstamina | /vendor/app/SuperStamina/SuperStamina.apk | STAMINA mode
+com.sonymobile.susrescheck | /system/app/SusResCheck/SusResCheck.apk | NULL OR EMPTY
+com.sonymobile.telephony.extension | /system/priv-app/SomcExtTelephony/SomcExtTelephony.apk | Phone Services
+com.sonymobile.themes.liquid.cid49.black | /system/app/Theme-liquid-cid49-black-release/Theme-liquid-cid49-black-release.apk | Black
+com.sonymobile.themes.liquid.cid50.silver | /system/app/Theme-liquid-cid50-silver-release/Theme-liquid-cid50-silver-release.apk | Silver
+com.sonymobile.themes.liquid.cid51.green | /system/app/Theme-liquid-cid51-green-release/Theme-liquid-cid51-green-release.apk | Green
+com.sonymobile.themes.liquid.cid52.pink | /system/app/Theme-liquid-cid52-pink-release/Theme-liquid-cid52-pink-release.apk | Pink
+com.sonymobile.transmitpower | /system/app/TransmitPower/TransmitPower.apk | TransmitPowerService
+com.sonymobile.tvout.wifidisplay | /system/priv-app/SomcWifiDisplay/SomcWifiDisplay.apk | Screen mirroring
+com.sonymobile.updatecenter.config.autoinstall | /system/app/update-center-config-auto-install-stub-release/update-center-config-auto-install-stub-release.apk | Config-auto-install-stub
+com.sonymobile.updatecenter.config.latecmz | /system/app/update-center-config-late-cmz-stub-release/update-center-config-late-cmz-stub-release.apk | Config-late-cmz-stub
+com.sonymobile.usm | /vendor/app/USMHome/USMHome.apk | Ultra STAMINA mode Home
+com.sonymobile.whitebalance | /system/app/white-balance/white-balance.apk | White balance
+com.sonymobile.wifi | /system/priv-app/SomcWifiService/SomcWifiService.apk | Wi-Fi
+com.sonymobile.xperiaweather | /data/app/com.sonymobile.xperiaweather-cwfZliokWAl8_o0WTP__Lw==/base.apk | Weather
+com.sonymobile.xperiaxloops | /system/priv-app/XperiaXLoops/XperiaXLoops.apk | Xperia™ Loops
+com.tencent.mm | /data/app/com.tencent.mm-ouaESil40g2JGcE3IjMS3Q==/base.apk | WeChat
+ctrip.android.view | /data/app/ctrip.android.view-SeSGsWohN2ifmKAqRRwhAw==/base.apk | 携程旅行
+me.piebridge.brevent | /data/app/me.piebridge.brevent-DVZ7vhXEDRft5XtH7BQ4pw==/base.apk | Brevent
+net.tenhou.WebBrowser20161220 | /data/app/net.tenhou.WebBrowser20161220-YZU-7K84ODQ4JG2UT65M0Q==/base.apk | 天鳳
+org.codeaurora.ims | /system/app/ims/ims.apk | NULL OR EMPTY
+org.simalliance.openmobileapi.uiccterminal | /system/app/UiccTerminal/UiccTerminal.apk | NULL OR EMPTY
+tv.danmaku.bili | /data/app/tv.danmaku.bili-wjwrXizZwV29YSCCfFDPMQ==/base.apk | 哔哩哔哩
